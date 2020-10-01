@@ -1,5 +1,6 @@
 # Detecting Potential Misinformation Spreaders during Disaster.
 **This project was made during `ShellHacks2020` for `#HealthyConversations` challenge.**
+Demo can be found **[here.](https://www.youtube.com/watch?v=R7qgnh9YbPE)**
 
 #### Problem Statement:
 Social media platforms are important and powerful means of communication. Twitter also provides a platform where information is exchanged every second through conversations. Unfortunately, spread of misinformation is demaging the reputaion of these platforms and could cause huge loss. The spread of misinformation is especially troublesome in case of disasters.Natural Language Processing techniques can be applied to detect twitter users who are potential misinformation spreaders and their tweets could be analysed more closely in case of disaster to stop the spread of misinformation as effectively as possible.
